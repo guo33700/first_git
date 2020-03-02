@@ -32,6 +32,7 @@ public class UserDaoImpl implements UserDao {
 					+ ""+user1.getAge());
 		}
 		System.out.println("≤‚ ‘");
+		System.out.println("≤‚ ‘2");
 		
 	}
 
